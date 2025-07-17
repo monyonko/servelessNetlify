@@ -1,0 +1,20 @@
+{
+  "name": "servelessnetlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "netlify deploy --build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/monyonko/servelessNetlify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monyonko/servelessNetlify/issues"
+  },
+  "homepage": "https://github.com/monyonko/servelessNetlify#readme",
+  "description": ""
+}
